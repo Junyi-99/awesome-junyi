@@ -7,3 +7,8 @@ awesome repos I found in GitHub.
 
    Activity Indicators for Modern C++
 
+## Python
+
+
+## Golang
+
