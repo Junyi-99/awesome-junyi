@@ -12,6 +12,12 @@ awesome repos I found in GitHub.
 
 ## Golang
 
+## Website
+
+- [Learn Git Branching](https://github.com/pcottle/learnGitBranching)
+
+   An interactive git visualization to challenge and educate!
+
 ## macOS
 
 - [stats](https://github.com/exelban/stats)
@@ -21,3 +27,11 @@ awesome repos I found in GitHub.
 - [Pock](https://github.com/pigigaldi/Pock)
 
    Display macOS Dock in Touch Bar
+
+- [AltTab](https://github.com/lwouis/alt-tab-macos)
+
+   Windows alt-tab on macOS
+
+- [Dozer](https://github.com/Mortennn/Dozer)
+
+   Hide menu bar icons to give your Mac a cleaner look.
