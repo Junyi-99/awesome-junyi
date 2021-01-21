@@ -39,3 +39,7 @@ awesome repos I found.
 - [SourceTree](https://www.sourcetreeapp.com/)
 
    Harness the full power of Git and Mercurial in a beautifully simple application.
+
+- [Xnip](http://xnipapp.com/)
+
+   Handy Screenshot App for Mac
