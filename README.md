@@ -43,3 +43,7 @@ awesome repos I found.
 - [Xnip](http://xnipapp.com/)
 
    Handy Screenshot App for Mac
+
+- [IINA](https://github.com/iina/iina)
+
+   The modern video player for macOS.
