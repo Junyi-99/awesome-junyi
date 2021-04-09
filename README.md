@@ -1,6 +1,15 @@
 # awesome-junyi
 awesome repos I found.
 
+## CLI
+
+- [explainshell](https://github.com/idank/explainshell)
+   
+   https://www.explainshell.com/
+   
+   Match command-line arguments to their help text
+
+
 ## C++
 
 - [indicators](https://github.com/p-ranav/indicators)
