@@ -29,6 +29,10 @@ awesome repos I found.
 
 ## macOS
 
+- [AlDente](https://github.com/davidwernhart/AlDente)
+
+   **MacOS tool to limit maximum charging percentage**
+   
 - [stats](https://github.com/exelban/stats)
 
    macOS system monitor in your menu bar
