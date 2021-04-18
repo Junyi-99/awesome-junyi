@@ -5,6 +5,13 @@ awesome repos I found.
 
 ⭐ means **Highly recommend**
 
+## Websites
+
+- [https://www.explainshell.com/]
+
+   Match command-line arguments to their help text
+
+
 ## CLI
 
 - [mackup](https://github.com/lra/mackup) ⭐
@@ -16,13 +23,7 @@ awesome repos I found.
 - [tldr](https://github.com/tldr-pages/tldr) ⭐
 
    Simplified and community-driven man pages
-
-- [explainshell](https://github.com/idank/explainshell)
    
-   https://www.explainshell.com/
-   
-   Match command-line arguments to their help text
-
 
 ## C++
 
