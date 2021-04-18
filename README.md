@@ -1,7 +1,15 @@
 # awesome-junyi
 awesome repos I found.
 
+**Notes:**
+
+⭐ means **Highly recommend**
+
 ## CLI
+
+- [tldr](https://github.com/tldr-pages/tldr) ⭐
+
+   Simplified and community-driven man pages
 
 - [explainshell](https://github.com/idank/explainshell)
    
@@ -49,11 +57,11 @@ awesome repos I found.
 
    Hide menu bar icons to give your Mac a cleaner look.
    
-- [SourceTree](https://www.sourcetreeapp.com/)
+- [SourceTree](https://www.sourcetreeapp.com/) ⭐
 
    Harness the full power of Git and Mercurial in a beautifully simple application.
 
-- [Xnip](http://xnipapp.com/)
+- [Xnip](http://xnipapp.com/) ⭐
 
    Handy Screenshot App for Mac
 
