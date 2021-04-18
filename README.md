@@ -7,6 +7,12 @@ awesome repos I found.
 
 ## CLI
 
+- [mackup](https://github.com/lra/mackup) ⭐
+
+   Keep your application settings in sync (OS X/Linux)
+   
+   我备份完发现它竟然支持 Factorio 游戏存档
+
 - [tldr](https://github.com/tldr-pages/tldr) ⭐
 
    Simplified and community-driven man pages
