@@ -24,6 +24,7 @@ awesome repos I found.
 
    Simplified and community-driven man pages
    
+   懒人福音，再也不用记命令的使用方法了
 
 ## C++
 
