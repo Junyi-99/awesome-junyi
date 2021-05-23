@@ -12,7 +12,13 @@ awesome repos I found.
    Match command-line arguments to their help text
 
 
+
 ## CLI
+- [awesome-compose](https://github.com/docker/awesome-compose)
+   
+   Awesome Docker Compose samples
+   
+   学习 Docker Compose 的不错选择
 
 - [mackup](https://github.com/lra/mackup) ⭐
 
