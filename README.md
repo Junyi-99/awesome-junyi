@@ -32,6 +32,13 @@ awesome repos I found.
    
    懒人福音，再也不用记命令的使用方法了
 
+- [fzf](https://github.com/junegunn/fzf#usage) ⭐
+
+   A command-line fuzzy finder
+   
+   文件搜索神器，太好用了，堪比 Windows 平台下的 Everything
+
+
 ## C++
 
 - [indicators](https://github.com/p-ranav/indicators)
