@@ -14,6 +14,12 @@ awesome repos I found.
 
 
 ## CLI
+- [nnn](https://github.com/jarun/nnn)
+   
+   n³ The unorthodox terminal file manager
+   
+   基于命令行的文件管理器，超级强大，速度超快，占用超低
+   
 - [awesome-compose](https://github.com/docker/awesome-compose)
    
    Awesome Docker Compose samples
@@ -65,14 +71,12 @@ awesome repos I found.
 - [stats](https://github.com/exelban/stats)
 
    macOS system monitor in your menu bar
-   
-- [Pock](https://github.com/pigigaldi/Pock)
-
-   Display macOS Dock in Touch Bar
 
 - [AltTab](https://github.com/lwouis/alt-tab-macos)
 
    Windows alt-tab on macOS
+   
+   使用 Alt+Tab 可以把隐藏的窗口调出来，比 macOS 原生的窗口切换好用
 
 - [Dozer](https://github.com/Mortennn/Dozer)
 
@@ -81,11 +85,17 @@ awesome repos I found.
 - [SourceTree](https://www.sourcetreeapp.com/) ⭐
 
    Harness the full power of Git and Mercurial in a beautifully simple application.
+   
+   带优雅 GUI 的 Git 工具
 
 - [Xnip](http://xnipapp.com/) ⭐
 
    Handy Screenshot App for Mac
+   
+   macOS 上(我认为)最好用的截屏工具
 
 - [IINA](https://github.com/iina/iina)
 
    The modern video player for macOS.
+   
+   macOS 上比较简约的视频播放器（一直在用）
