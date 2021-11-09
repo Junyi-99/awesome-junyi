@@ -52,11 +52,15 @@ awesome repos I found.
 
 - [AlDente](https://github.com/davidwernhart/AlDente)
 
-   **MacOS tool to limit maximum charging percentage**
+   macOS tool to limit maximum charging percentage
+   
+   可以限制你的 Mac 充电到百分之几停止
    
 - [stats](https://github.com/exelban/stats)
 
    macOS system monitor in your menu bar
+   
+   一个位于状态栏的 Mac 信息监控工具
 
 - [AltTab](https://github.com/lwouis/alt-tab-macos)
 
