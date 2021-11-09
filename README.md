@@ -5,14 +5,6 @@ awesome repos I found.
 
 ⭐ means **Highly recommend**
 
-## Websites
-
-- [https://www.explainshell.com/]
-
-   Match command-line arguments to their help text
-
-
-
 ## CLI
 - [nnn](https://github.com/jarun/nnn)
    
